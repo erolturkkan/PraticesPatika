@@ -1,0 +1,8 @@
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\obj\Debug\variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\bin\Debug\variables.exe.config
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\bin\Debug\variables.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\bin\Debug\variables.pdb
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\obj\Debug\variables.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\variables\obj\Debug\variables.pdb
