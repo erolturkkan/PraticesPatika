@@ -1,0 +1,8 @@
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\bin\Debug\Operators.exe.config
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\bin\Debug\Operators.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\bin\Debug\Operators.pdb
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\obj\Debug\Operators.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Operators\obj\Debug\Operators.pdb
