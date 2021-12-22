@@ -1,0 +1,8 @@
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\bin\Debug\TypeConversions.exe.config
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\bin\Debug\TypeConversions.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\bin\Debug\TypeConversions.pdb
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\obj\Debug\TypeConversions.csproj.AssemblyReference.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\obj\Debug\TypeConversions.csproj.SuggestedBindingRedirects.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\obj\Debug\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\obj\Debug\TypeConversions.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\TypeConversions\obj\Debug\TypeConversions.pdb
