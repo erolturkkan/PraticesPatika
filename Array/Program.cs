@@ -44,6 +44,54 @@ namespace Arrays
             }
             Console.WriteLine("Avarage : " + total/lenghtofArray);
 
+            //array class methods
+            Console.WriteLine("\n***************************\n*** Array Class Methods ***\n***************************\n");
+
+            //Sort
+            int[] numberArray1 = { 1, 2, 3 , 34, 54, 54,67, 97,12, 45, 67};
+
+            //not sort
+            foreach (var number in numberArray1)
+            {
+                Console.WriteLine(number);
+            }
+            //sort
+            Console.WriteLine("* * * * * Sort * * * * *");
+            Array.Sort(numberArray1);
+            foreach (var number in numberArray1)
+            {
+                Console.WriteLine(number);
+            }
+
+            Console.WriteLine("*** Array Clear ***");
+            //This method makes 0 the 2nd index and the next index.
+            Array.Clear(numberArray1, 2, 2);
+            foreach (var number in numberArray1)
+            {
+                Console.WriteLine(number);
+            }
+
+            //Reverse
+            Console.WriteLine("* * * * * Reverse * * * * *");
+            Array.Reverse(numberArray1);
+            foreach (var number in numberArray1)
+            {
+                Console.WriteLine(number);
+            }
+
+            //Index Of
+            Console.WriteLine("* * * * * Index Of * * * * *");
+            Console.WriteLine(Array.IndexOf(numberArray1, 34));
+
+            //Resize
+            Console.WriteLine("* * * * * Resize * * * * *");
+            Array.Resize<int>(ref numberArray1, 13);
+            numberArray1[12] = 99;
+            foreach (var number in numberArray1)
+            {
+                Console.WriteLine(number);
+            }
+
             Console.ReadLine();
         }
     }
