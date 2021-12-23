@@ -1,0 +1,8 @@
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\bin\Debug\Conditions.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\bin\Debug\Conditions.pdb
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\obj\Debug\Conditions.csproj.AssemblyReference.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\obj\Debug\Conditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\obj\Debug\Conditions.exe
+C:\Users\berol\OneDrive\Belgeler\GitHub\PraticesPatika\Conditions\obj\Debug\Conditions.pdb
