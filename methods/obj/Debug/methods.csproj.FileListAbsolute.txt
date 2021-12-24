@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\methods\bin\Debug\methods.exe.config
+D:\GitHub\PraticesPatika\methods\bin\Debug\methods.exe
+D:\GitHub\PraticesPatika\methods\bin\Debug\methods.pdb
+D:\GitHub\PraticesPatika\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\methods\obj\Debug\methods.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\methods\obj\Debug\methods.exe
+D:\GitHub\PraticesPatika\methods\obj\Debug\methods.pdb
