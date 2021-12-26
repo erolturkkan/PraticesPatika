@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\bin\Debug\RecursiveExtensionMethods.exe.config
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\bin\Debug\RecursiveExtensionMethods.exe
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\bin\Debug\RecursiveExtensionMethods.pdb
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\obj\Debug\RecursiveExtensionMethods.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\obj\Debug\RecursiveExtensionMethods.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\obj\Debug\RecursiveExtensionMethods.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\obj\Debug\RecursiveExtensionMethods.exe
+D:\GitHub\PraticesPatika\RecursiveExtensionMethods\obj\Debug\RecursiveExtensionMethods.pdb
