@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\StringMethods\bin\Debug\StringMethods.exe.config
+D:\GitHub\PraticesPatika\StringMethods\bin\Debug\StringMethods.exe
+D:\GitHub\PraticesPatika\StringMethods\bin\Debug\StringMethods.pdb
+D:\GitHub\PraticesPatika\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\StringMethods\obj\Debug\StringMethods.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\StringMethods\obj\Debug\StringMethods.exe
+D:\GitHub\PraticesPatika\StringMethods\obj\Debug\StringMethods.pdb
