@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\Assignment1\bin\Debug\Assignment1.exe.config
+D:\GitHub\PraticesPatika\Assignment1\bin\Debug\Assignment1.exe
+D:\GitHub\PraticesPatika\Assignment1\bin\Debug\Assignment1.pdb
+D:\GitHub\PraticesPatika\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\Assignment1\obj\Debug\Assignment1.exe
+D:\GitHub\PraticesPatika\Assignment1\obj\Debug\Assignment1.pdb
