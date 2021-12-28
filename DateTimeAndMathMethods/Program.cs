@@ -70,6 +70,12 @@ namespace DateTimeAndMathMethods
             Console.WriteLine(Math.Exp(3)); // e^3
             Console.WriteLine(Math.Log10(10)); //floor 10 logarithm
 
+            //Convert 12:00:00PM to 24 hours
+
+            String s = "07:05:45PM";
+            DateTime dt = DateTime.Parse(s);
+            Console.WriteLine(dt.ToString("HH:mm"));
+
             Console.ReadLine();
         }
     }
