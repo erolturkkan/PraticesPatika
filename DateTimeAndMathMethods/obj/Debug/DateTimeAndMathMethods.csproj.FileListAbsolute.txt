@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\bin\Debug\DateTimeAndMathMethods.exe.config
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\bin\Debug\DateTimeAndMathMethods.exe
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\bin\Debug\DateTimeAndMathMethods.pdb
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\obj\Debug\DateTimeAndMathMethods.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\obj\Debug\DateTimeAndMathMethods.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\obj\Debug\DateTimeAndMathMethods.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\obj\Debug\DateTimeAndMathMethods.exe
+D:\GitHub\PraticesPatika\DateTimeAndMathMethods\obj\Debug\DateTimeAndMathMethods.pdb
