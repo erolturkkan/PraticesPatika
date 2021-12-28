@@ -65,6 +65,7 @@ namespace StringMethods
             Console.WriteLine(variable1.Substring(4,6));
 
             Console.ReadLine();
+            
         }
     }
 }
