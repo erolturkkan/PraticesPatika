@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\Dictionaries\bin\Debug\Dictionaries.exe.config
+D:\GitHub\PraticesPatika\Dictionaries\bin\Debug\Dictionaries.exe
+D:\GitHub\PraticesPatika\Dictionaries\bin\Debug\Dictionaries.pdb
+D:\GitHub\PraticesPatika\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\Dictionaries\obj\Debug\Dictionaries.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\Dictionaries\obj\Debug\Dictionaries.exe
+D:\GitHub\PraticesPatika\Dictionaries\obj\Debug\Dictionaries.pdb
