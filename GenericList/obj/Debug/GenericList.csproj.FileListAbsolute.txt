@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\GenericList\bin\Debug\GenericList.exe.config
+D:\GitHub\PraticesPatika\GenericList\bin\Debug\GenericList.exe
+D:\GitHub\PraticesPatika\GenericList\bin\Debug\GenericList.pdb
+D:\GitHub\PraticesPatika\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\GenericList\obj\Debug\GenericList.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\GenericList\obj\Debug\GenericList.exe
+D:\GitHub\PraticesPatika\GenericList\obj\Debug\GenericList.pdb
