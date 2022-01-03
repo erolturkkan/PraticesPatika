@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c20c91d1-b4c2-4850-bd8f-55708e8b02c4": {
+      "ProjectGuid": "c20c91d1-b4c2-4850-bd8f-55708e8b02c4",
+      "DisplayName": "ConstructorAndAccessSpecifier",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
