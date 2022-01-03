@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\EncapsulationCS\bin\Debug\EncapsulationCS.exe.config
+D:\GitHub\PraticesPatika\EncapsulationCS\bin\Debug\EncapsulationCS.exe
+D:\GitHub\PraticesPatika\EncapsulationCS\bin\Debug\EncapsulationCS.pdb
+D:\GitHub\PraticesPatika\EncapsulationCS\obj\Debug\EncapsulationCS.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\EncapsulationCS\obj\Debug\EncapsulationCS.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\EncapsulationCS\obj\Debug\EncapsulationCS.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\EncapsulationCS\obj\Debug\EncapsulationCS.exe
+D:\GitHub\PraticesPatika\EncapsulationCS\obj\Debug\EncapsulationCS.pdb
