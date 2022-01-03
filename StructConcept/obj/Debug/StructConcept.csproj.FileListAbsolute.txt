@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\StructConcept\bin\Debug\StructConcept.exe.config
+D:\GitHub\PraticesPatika\StructConcept\bin\Debug\StructConcept.exe
+D:\GitHub\PraticesPatika\StructConcept\bin\Debug\StructConcept.pdb
+D:\GitHub\PraticesPatika\StructConcept\obj\Debug\StructConcept.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\StructConcept\obj\Debug\StructConcept.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\StructConcept\obj\Debug\StructConcept.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\StructConcept\obj\Debug\StructConcept.exe
+D:\GitHub\PraticesPatika\StructConcept\obj\Debug\StructConcept.pdb
