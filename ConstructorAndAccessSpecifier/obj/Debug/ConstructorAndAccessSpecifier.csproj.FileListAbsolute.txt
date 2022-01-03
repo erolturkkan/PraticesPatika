@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\obj\Debug\ConstructorAndAccessSpecifier.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\obj\Debug\ConstructorAndAccessSpecifier.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\obj\Debug\ConstructorAndAccessSpecifier.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\bin\Debug\ConstructorAndAccessSpecifier.exe.config
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\bin\Debug\ConstructorAndAccessSpecifier.exe
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\bin\Debug\ConstructorAndAccessSpecifier.pdb
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\obj\Debug\ConstructorAndAccessSpecifier.exe
+D:\GitHub\PraticesPatika\ConstructorAndAccessSpecifier\obj\Debug\ConstructorAndAccessSpecifier.pdb
