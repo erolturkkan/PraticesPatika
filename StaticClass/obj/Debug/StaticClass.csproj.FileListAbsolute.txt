@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\StaticClass\bin\Debug\StaticClass.exe.config
+D:\GitHub\PraticesPatika\StaticClass\bin\Debug\StaticClass.exe
+D:\GitHub\PraticesPatika\StaticClass\bin\Debug\StaticClass.pdb
+D:\GitHub\PraticesPatika\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\StaticClass\obj\Debug\StaticClass.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\StaticClass\obj\Debug\StaticClass.exe
+D:\GitHub\PraticesPatika\StaticClass\obj\Debug\StaticClass.pdb
