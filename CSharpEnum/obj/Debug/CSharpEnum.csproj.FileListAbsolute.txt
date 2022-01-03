@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\CSharpEnum\bin\Debug\CSharpEnum.exe.config
+D:\GitHub\PraticesPatika\CSharpEnum\bin\Debug\CSharpEnum.exe
+D:\GitHub\PraticesPatika\CSharpEnum\bin\Debug\CSharpEnum.pdb
+D:\GitHub\PraticesPatika\CSharpEnum\obj\Debug\CSharpEnum.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\CSharpEnum\obj\Debug\CSharpEnum.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\CSharpEnum\obj\Debug\CSharpEnum.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\CSharpEnum\obj\Debug\CSharpEnum.exe
+D:\GitHub\PraticesPatika\CSharpEnum\obj\Debug\CSharpEnum.pdb
