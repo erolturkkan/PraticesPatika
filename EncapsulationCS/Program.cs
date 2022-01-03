@@ -51,7 +51,7 @@ namespace EncapsulationCS
             {
                 if (value<1)
                 {
-                    Console.WriteLine("The class no at least can be 1");
+                    Console.WriteLine("The class can be at least 1.");
                     classNo = 1;
                 }
                 else
