@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\ClassConcept\bin\Debug\ClassConcept.exe.config
+D:\GitHub\PraticesPatika\ClassConcept\bin\Debug\ClassConcept.exe
+D:\GitHub\PraticesPatika\ClassConcept\bin\Debug\ClassConcept.pdb
+D:\GitHub\PraticesPatika\ClassConcept\obj\Debug\ClassConcept.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\ClassConcept\obj\Debug\ClassConcept.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\ClassConcept\obj\Debug\ClassConcept.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\ClassConcept\obj\Debug\ClassConcept.exe
+D:\GitHub\PraticesPatika\ClassConcept\obj\Debug\ClassConcept.pdb
