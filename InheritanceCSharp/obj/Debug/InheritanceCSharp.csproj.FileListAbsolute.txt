@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\InheritanceCSharp\bin\Debug\InheritanceCSharp.exe.config
+D:\GitHub\PraticesPatika\InheritanceCSharp\bin\Debug\InheritanceCSharp.exe
+D:\GitHub\PraticesPatika\InheritanceCSharp\bin\Debug\InheritanceCSharp.pdb
+D:\GitHub\PraticesPatika\InheritanceCSharp\obj\Debug\InheritanceCSharp.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\InheritanceCSharp\obj\Debug\InheritanceCSharp.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\InheritanceCSharp\obj\Debug\InheritanceCSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\InheritanceCSharp\obj\Debug\InheritanceCSharp.exe
+D:\GitHub\PraticesPatika\InheritanceCSharp\obj\Debug\InheritanceCSharp.pdb
