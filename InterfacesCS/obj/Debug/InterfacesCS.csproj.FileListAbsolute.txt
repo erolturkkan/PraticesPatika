@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\InterfacesCS\bin\Debug\InterfacesCS.exe.config
+D:\GitHub\PraticesPatika\InterfacesCS\bin\Debug\InterfacesCS.exe
+D:\GitHub\PraticesPatika\InterfacesCS\bin\Debug\InterfacesCS.pdb
+D:\GitHub\PraticesPatika\InterfacesCS\obj\Debug\InterfacesCS.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\InterfacesCS\obj\Debug\InterfacesCS.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\InterfacesCS\obj\Debug\InterfacesCS.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\InterfacesCS\obj\Debug\InterfacesCS.exe
+D:\GitHub\PraticesPatika\InterfacesCS\obj\Debug\InterfacesCS.pdb
