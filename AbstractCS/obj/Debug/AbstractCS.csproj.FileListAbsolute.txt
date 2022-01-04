@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\AbstractCS\bin\Debug\AbstractCS.exe.config
+D:\GitHub\PraticesPatika\AbstractCS\bin\Debug\AbstractCS.exe
+D:\GitHub\PraticesPatika\AbstractCS\bin\Debug\AbstractCS.pdb
+D:\GitHub\PraticesPatika\AbstractCS\obj\Debug\AbstractCS.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\AbstractCS\obj\Debug\AbstractCS.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\AbstractCS\obj\Debug\AbstractCS.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\AbstractCS\obj\Debug\AbstractCS.exe
+D:\GitHub\PraticesPatika\AbstractCS\obj\Debug\AbstractCS.pdb
