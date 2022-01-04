@@ -1,0 +1,8 @@
+D:\GitHub\PraticesPatika\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+D:\GitHub\PraticesPatika\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+D:\GitHub\PraticesPatika\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+D:\GitHub\PraticesPatika\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+D:\GitHub\PraticesPatika\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\PraticesPatika\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\GitHub\PraticesPatika\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+D:\GitHub\PraticesPatika\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
