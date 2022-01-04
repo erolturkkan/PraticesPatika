@@ -20,5 +20,11 @@ namespace InheritanceCSharp
         {
             Console.WriteLine("living things excrete");
         }
+
+        public virtual void Stimuliresponse()
+        {
+            Console.WriteLine("living things react to stimuli");
+        }
+
     }
 }

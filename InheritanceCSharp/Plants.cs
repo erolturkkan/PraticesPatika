@@ -12,6 +12,13 @@ namespace InheritanceCSharp
         {
             Console.WriteLine("Plants can photosynthesize.");
         }
+
+        public override void Stimuliresponse()
+        {
+            //base.Stimuliresponse();
+            Console.WriteLine("plants react to the sun");
+        }
+
     }
 
     internal class SeedPlant:Plants
@@ -22,6 +29,8 @@ namespace InheritanceCSharp
             base.Nutrition();
             base.Excretion();
             base.Respiration();
+            base.Stimuliresponse();
+
         }
         public void BySeed()
         {

@@ -12,6 +12,13 @@ namespace InheritanceCSharp
         {
             Console.WriteLine("Animals can adapt.");
         }
+
+        public override void Stimuliresponse()
+        {
+            base.Stimuliresponse();
+            Console.WriteLine("animals react to contact");
+        }
+
     }
 
     internal class Reptiles:Animals
@@ -37,6 +44,7 @@ namespace InheritanceCSharp
             base.Respiration();
             base.Nutrition();
             base.Excretion();
+            base.Stimuliresponse();
         }
         public void Fly()
         {
