@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef9cb948-a520-4d78-9b4f-e50a24930b4d": {
+      "ProjectGuid": "ef9cb948-a520-4d78-9b4f-e50a24930b4d",
+      "DisplayName": "CSharpEnum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
