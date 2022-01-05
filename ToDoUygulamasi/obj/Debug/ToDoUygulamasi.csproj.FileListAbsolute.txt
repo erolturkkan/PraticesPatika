@@ -1,0 +1,8 @@
+D:\practicesPatika\test\ToDoUygulamasi\bin\Debug\ToDoUygulamasi.exe.config
+D:\practicesPatika\test\ToDoUygulamasi\bin\Debug\ToDoUygulamasi.exe
+D:\practicesPatika\test\ToDoUygulamasi\bin\Debug\ToDoUygulamasi.pdb
+D:\practicesPatika\test\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.csproj.AssemblyReference.cache
+D:\practicesPatika\test\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\practicesPatika\test\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.csproj.CoreCompileInputs.cache
+D:\practicesPatika\test\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.exe
+D:\practicesPatika\test\ToDoUygulamasi\obj\Debug\ToDoUygulamasi.pdb
